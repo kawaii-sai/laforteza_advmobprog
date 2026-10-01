@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342910527056",
+    "project_id": "laforteza-advmblprog",
+    "storage_bucket": "laforteza-advmblprog.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342910527056:android:3bddb76a4b4b64c9c15355",
+        "android_client_info": {
+          "package_name": "com.example.laforteza_advmobprog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQdrqBTu2dbzGf5Xq8wvpTyTsPkaZtGww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
